@@ -15,14 +15,14 @@ train_file          - .txt file containing train Factiva articles
 test_file           - .txt file containing test Factiva articles
 length_test_file    - number of articles in the test file
 version_train       - version of the articles in the train file. Currently implemented is The Wall Street
-                        Journal and Reuters
+                        Journal and Reuters ('WSJ', 'RET')
 version_test        - version of the articles in the test file. Currently implemented is The Wall Street
-                        Journal and Reuters
+                        Journal and Reuters ('WSJ', 'RET')
 crossvalidation     - ratio of files in training set used for randomized crossvalidation
 code_test_set       - .txt file containing articles used for tests (pytest module is used)
 
-Files train_sentiment_file and test_sentiment_file should be composed of article scores
-corresponding to the order of articles in the train_file and test_file, respectively.
+Files train_sentiment_file should be composed of article scores corresponding to the order
+of articles in the train_file.
 
 """
 
@@ -36,8 +36,8 @@ with open(r'Input_files\train_sentiment_file.csv', 'r') as doc:
 train_sentiment_file = re.split('\\n', file)[:-1]
 length_test_file = 10000
 test_sentiment_file = [0] * length_test_file
-version_train = 'WSJ'
-version_test = 'WSJ'
+version_train = 'RET'
+version_test = 'RET'
 crossvalidation = 0.1
 code_test_set = r'Input_files\TstFl.txt'
 
