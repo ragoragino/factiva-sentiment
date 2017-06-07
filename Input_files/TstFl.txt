@@ -1,0 +1,57 @@
+﻿ 
+
+ HD	Apple stock could jump 10 percent in 6 months -Barron's
+ WC	132 words
+ PD	19 March 2017
+ ET	21:13
+ SN	Reuters News
+ SC	LBA
+ LA	English
+ CY	Copyright 2017 Thomson Reuters. All Rights Reserved. 
+
+ LP	NEW YORK, March 19 (Reuters) - The stock of market technology giant Apple Inc could increase another 10 percent in six months because of growth in its service divisions and buzz around a new iPhone model, Barron's wrote in an article posted Saturday.
+
+The business, money and investing publication cited offerings such as AppleCare, iTunes and iCloud in noting that the "company’s high-margin services revenue probably will continue to race quietly higher."
+
+ TD	"As high-margin services grow, Apple could earn a higher valuation. And shares could hit $155 on iPhone," Barron's wrote.
+
+The stock trades around $140 now, up more than 20 percent in 2017. (Reporting by Lawrence Delevingne; Editing by Phil Berlowitz) 
+
+ RF	Released: 2017-3-19T21:13:28.000Z
+ CO	applc : Apple Inc.
+ IN	icomp : Computing | ismart : Smartphones | i3302 : Computers/Consumer Electronics | i3441 : Telecommunications Technology/Equipment | i34411 : Mobile Communications Equipment | i3454 : Personal Electronics | icellph : Cellular/Mobile Phones | ielec : Consumer Electronics | ihandaps : Handheld Electronic Devices | itech : Technology
+ NS	ccat : Corporate/Industrial News
+ RE	usa : United States | namz : North America
+ IPC	SERVICE:PSC | SERVICE:E | SERVICE:UCDPTEST | SERVICE:ABN | SERVICE:FWE | SERVICE:U | SERVICE:RBN | LANG:en | OEC | OVR | BACT | CCOS | CMPNY | COMP | CYCS | HARW | MDIA | PUB | RCH | RET | RETE | RSPC | SHOP | SHOPAL | SOFW | STX | SWIT | TECH | TEEQ | TMT | USA
+ IPD	Business | Economy | Technology | US | Americas | North America | United States | APPLE-BARRONS/ | Apple Inc | APPLE | BARRONS
+ PUB	Thomson Reuters (Markets) LLC
+ AN	Document LBA0000020170319ed3j00q06
+ 
+
+
+
+   SE	Tech
+   HD	Apple's Cash Hoard Set to Top $250 Billion; Tech giant's unequaled stash draws calls for buybacks, acquisitions as corporate tax shift looms
+   BY	By Tripp Mickle 
+   WC	918 words
+   PD	1 May 2017
+   ET	03:23
+   SN	The Wall Street Journal Online
+   SC	WSJO
+   LA	English
+   CY	Copyright 2017 Dow Jones & Company, Inc. All Rights Reserved. 
+
+   LP	Apple Inc. is expected to market Tuesday that its stockpile of cash has topped a quarter of a trillion dollars, an unrivaled hoard that is greater than the market value of either Wal-Mart Stores Inc. or Procter & Gamble Co. and exceeds the foreign-currency reserves held by the U.K. and Canada combined.
+
+The money, more than 90% of which is stockpiled outside of the U.S., has drawn fresh attention as President Donald Trump has proposed slashing business taxes and granting a one-time tax holiday on corporate cash brought home. Those policies could ratchet up pressure on the tech giant to dole out more money to shareholders or make splashy acquisitions.
+
+   CO	applc : Apple Inc. | prgml : The Procter & Gamble Company | wlmrt : Wal-Mart Stores, Inc.
+   IN	i3302 : Computers/Consumer Electronics | i64 : Retail/Wholesale | i654 : Specialty Stores | i6560002 : Department Stores | i7902 : Telecommunication Services | i8396 : Diversified Holding Companies | ibcs : Business/Consumer Services | icnp : Consumer Goods | icph : Computer Hardware | iint : Internet/Online | ipcare : Personal Care Products/Appliances | iretail : Retail | itech : Technology | i656 : Mixed Retailing | icomp : Computing | i258 : Cosmetics/Toiletries | i6560011 : Shopping Malls/Superstores
+   NS	cpstoc : Product Stockpile | c13 : Regulation/Government Policy | c151 : Earnings | c1512 : Dividends | c181 : Acquisitions/Mergers/Divestments | cactio : Corporate Actions | ccptax : Corporate Taxation | gcat : Political/General News | cacqu : Acquisitions/Mergers | cinfpo : Information Technology Policy | c15 : Financial Performance | c18 : Ownership Changes | c21 : Output/Production | ccat : Corporate/Industrial News | cexpro : Existing Products/Services | ncat : Content Types | nfact : Factiva Filters | nfce : C&E Exclusion Filter | nfcpin : C&E Industry News Filter
+   RE	usa : United States | namz : North America
+   IPC	8074.TO | AAPL | AMZN | BRKA | BRKB | GOOGL | I/COS | I/IDD | I/RTB | I/RTS | M/CYC | M/NCY | M/RTWS | M/TEC | MSFT | N/CAC | N/CMR | N/CTA | N/DJCS | N/DJN | N/GEN | N/NRG | N/PBP | N/TNM | N/WER | NFLX | PG | R/NME | R/US | TSLA | WMT
+   IPD	WSJ.com | WSJ.com Site Search | WSJAsia | WSJEurope | WSJ Japanese | Online | WSJ-PRO-WSJ.com | APPLE DIVIDEND | APPLE EARNINGS | APPLE PROFIT | IPHONE SALES | SB115418634570973844402045831117604522873521 | Blouin, Jennifer | Buffett, Warren | Cook, Tim | Icahn, Carl | Jobs, Steve | Maestri, Luca | Nichols, Robert | Pinkowitz, Lee | SYND | Renting a Home | CODES_REVIEWED | Technology
+   PUB	Dow Jones & Company, Inc.
+   AN	Document WSJO000020170430ed4u001gt
+   
+

@@ -1,0 +1,68 @@
+﻿
+ 
+
+ HD	Apple stock could jump 10 percent in 6 months -Barron's
+ WC	132 words
+ PD	19 March 2017
+ ET	21:13
+ SN	Reuters News
+ SC	LBA
+ LA	English
+ CY	Copyright 2017 Thomson Reuters. All Rights Reserved. 
+
+ LP	NEW YORK, March 19 (Reuters) - The stock of technology giant Apple Inc could increase another 10 percent in six months because of growth in its service divisions and buzz around a new iPhone model, Barron's wrote in an article posted Saturday.
+
+The business and investing publication cited offerings such as AppleCare, iTunes and iCloud in noting that the "company’s high-margin services revenue probably will continue to race quietly higher."
+
+ TD	"As high-margin services grow, Apple could earn a higher valuation. And shares could hit $155 on iPhone," Barron's wrote.
+
+The stock trades around $140 now, up more than 20 percent in 2017. (Reporting by Lawrence Delevingne; Editing by Phil Berlowitz) 
+
+ RF	Released: 2017-3-19T21:13:28.000Z
+ CO	applc : Apple Inc.
+ IN	icomp : Computing | ismart : Smartphones | i3302 : Computers/Consumer Electronics | i3441 : Telecommunications Technology/Equipment | i34411 : Mobile Communications Equipment | i3454 : Personal Electronics | icellph : Cellular/Mobile Phones | ielec : Consumer Electronics | ihandaps : Handheld Electronic Devices | itech : Technology
+ NS	ccat : Corporate/Industrial News
+ RE	usa : United States | namz : North America
+ IPC	SERVICE:PSC | SERVICE:E | SERVICE:UCDPTEST | SERVICE:ABN | SERVICE:FWE | SERVICE:U | SERVICE:RBN | LANG:en | OEC | OVR | BACT | CCOS | CMPNY | COMP | CYCS | HARW | MDIA | PUB | RCH | RET | RETE | RSPC | SHOP | SHOPAL | SOFW | STX | SWIT | TECH | TEEQ | TMT | USA
+ IPD	Business | Economy | Technology | US | Americas | North America | United States | APPLE-BARRONS/ | Apple Inc | APPLE | BARRONS
+ PUB	Thomson Reuters (Markets) LLC
+ AN	Document LBA0000020170319ed3j00q06
+ 
+ 
+
+ HD	REFILE-TSMC says to decide on U.S. chip plant next year
+ WC	288 words
+ PD	20 April 2017
+ ET	08:33
+ SN	Reuters News
+ SC	LBA
+ LA	English
+ CY	Copyright 2017 Thomson Reuters. All Rights Reserved. 
+
+ LP	(Corrects Apple RIC)
+
+TAIPEI, March 20 (Reuters) - Taiwan's TSMC, the world's largest contract chipmaker and a major Apple Inc supplier, on Monday said it would take a decision next year on whether to build a U.S. chip plant.
+
+ TD	In January, TSMC Chairman Morris Chang had said the company did not rule out the idea of building a U.S. foundry, joining a slew of global firms from automakers to luggage makers that are considering manufacturing in the United States amid President Donald Trump's push to create more jobs.
+
+"We won't make a decision until next year," TSMC spokesperson Michael Kramer said. The company currently gets about 65 percent of its total revenue from the United States.
+
+"We would sacrifice some benefits if we move to the States. But we have flexibility in Taiwan. If an earthquake happened for instance (in Taiwan), we could send thousands of people here as support, whereas it's harder in the States," he told Reuters.
+
+Local media CNA news agency reported on Monday that TSMC would make a decision on the plant in the first half of 2018, citing unnamed sources.
+
+The report also said TSMC was considering a T$500 billion ($16.41 billion) investment for the plant.
+
+The consideration for a U.S. plant comes at a time when TSMC is reportedly looking at investing in Toshiba Corp's chip business. An industry source familiar with the matter said TSMC was deeply interested in the Toshiba unit. ($1 = 30.4710 Taiwan dollars) (Reporting by Jess Macy Yu and J.R. Wu in Taipei; Editing by Himani Sarkar) 
+
+ RF	Released: 2017-3-20T08:33:55.000Z
+ CO	applc : Apple Inc. | taisem : Taiwan Semiconductor Manufacturing Company Limited
+ IN	icomp : Computing | i3302 : Computers/Consumer Electronics | itech : Technology | i34531 : Semiconductors | iindele : Industrial Electronics | iindstrls : Industrial Goods
+ NS	ccat : Corporate/Industrial News
+ RE	taiwan : Taiwan | usa : United States | apacz : Asia Pacific | asiaz : Asia | chinaz : Greater China | devgcoz : Emerging Market Countries | easiaz : Eastern Asia | namz : North America
+ IPC	SERVICE:PSC | SERVICE:PCU | SERVICE:E | SERVICE:DNP | SERVICE:UCDPTEST | SERVICE:ABN | SERVICE:RNP | SERVICE:U | SERVICE:Z | SERVICE:PCO | SERVICE:RBN | LANG:en | OEC | OVR | BACT | CCOS | CHIP | CHN | CMPNY | COMP | CYCS | HARW | MDIA | PUB | RET | RETE | RSPC | SEMI | SHOP | SHOPAL | SOFW | SWIT | TECH | TEEQ | TMT | TWN | USA
+ IPD	Business | Technology | Asia | Europe | US | Asia / Pacific | China (PRC) | Americas | North America | Emerging Market Countries | United States | Taiwan | East Asia | TAIWAN-TSMC/FOUNDRY (CORRECTED) | Taiwan Semiconductor Manufacturing Co Ltd | Apple Inc | Toshiba Corp | TSMC | FOUNDRY (CORRECTED)
+ PUB	Thomson Reuters (Markets) LLC
+ AN	Document LBA0000020170320ed3k00bce
+ 
+ 

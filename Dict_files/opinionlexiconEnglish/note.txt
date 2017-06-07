@@ -1,0 +1,2 @@
+It was necessary to repair one sign in the word "nadve" close to word "nebulu" in the negative words list
+ - the word was not UTF-8 encoding compatible.
