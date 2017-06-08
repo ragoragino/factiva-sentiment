@@ -26,7 +26,7 @@ of articles in the train_file.
 
 """
 
-my_dir = r'D:\Materials\Programming\Python\Ksenia_master'
+my_dir = r'D:\Materials\Programming\Python'
 os.chdir(my_dir)
 dict_file = 'AFINN-111'
 train_file = r'Input_files\Factiva500.txt'
