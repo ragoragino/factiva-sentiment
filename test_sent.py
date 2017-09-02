@@ -9,7 +9,7 @@ import naive_bayes as nb
 This is a file for testing, using pytest module.
 """
 
-my_dir = r'D:\Materials\Programming\Python\Ksenia_master'
+my_dir = r'D:\Materials\Programming\Python\'
 os.chdir(my_dir)
 
 sentiment_dictionary = {'market': -1, 'money': 1, 'growth': 1, 'tax': -1}
